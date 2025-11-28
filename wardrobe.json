@@ -1,0 +1,123 @@
+{
+  "base_layers_F": {
+    "displayName": "Base Layers",
+    "subfolders": [
+      {
+        "id": "short_sleeved_shirts_bras",
+        "displayName": "Short-Sleeved Shirts & Bras",
+        "items": ["shirt1.png"]
+      },
+      {
+        "id": "long_sleeved_shirts_sweaters",
+        "displayName": "Long-Sleeved Shirts & Sweaters",
+        "items": ["sweater1.png"]
+      },
+      {
+        "id": "dresses_rompers",
+        "displayName": "Dresses & Rompers",
+        "items": ["dress1.png"]
+      },
+      {
+        "id": "vests_cardigans_robes",
+        "displayName": "Vests, Cardigans, & Robes",
+        "items": ["vest1.png"]
+      },
+      {
+        "id": "coats_hoodies_jackets",
+        "displayName": "Coats, Hoodies, & Jackets",
+        "items": ["jacket1.png"]
+      },
+      {
+        "id": "jeans_long_pants",
+        "displayName": "Jeans & Long Pants",
+        "items": ["jeans1.png"]
+      },
+      {
+        "id": "shorts",
+        "displayName": "Shorts",
+        "items": ["shorts1.png"]
+      },
+      {
+        "id": "skirts",
+        "displayName": "Skirts",
+        "items": ["skirt1.png"]
+      },
+      {
+        "id": "shoes",
+        "displayName": "Shoes",
+        "items": ["shoes1.png"]
+      }
+    ]
+  },
+  "accessories_F": {
+    "displayName": "Accessories",
+    "subfolders": [
+      {
+        "id": "jewelry_F",
+        "displayName": "Jewelry",
+        "subfolders": [
+          {
+            "id": "necklaces",
+            "displayName": "Necklaces",
+            "items": ["necklace1.png"]
+          },
+          {
+            "id": "earrings",
+            "displayName": "Earrings",
+            "items": ["earrings1.png"]
+          },
+          {
+            "id": "bracelets",
+            "displayName": "Bracelets",
+            "items": ["bracelet1.png"]
+          },
+          {
+            "id": "rings",
+            "displayName": "Rings",
+            "items": ["ring1.png"]
+          },
+          {
+            "id": "leg_garters",
+            "displayName": "Leg Garters",
+            "items": ["garter1.png"]
+          }
+        ]
+      },
+      {
+        "id": "hats_hair_accessories",
+        "displayName": "Hats & Hair Accessories",
+        "items": ["hat1.png"]
+      },
+      {
+        "id": "scarves_masks_neck_ties",
+        "displayName": "Scarves, Masks, & Neck Ties",
+        "items": ["scarf1.png"]
+      },
+      {
+        "id": "gloves_arm_sleeves",
+        "displayName": "Gloves & Arm Sleeves",
+        "items": ["gloves1.png"]
+      },
+      {
+        "id": "belts_chains_corsets",
+        "displayName": "Belts, Chains, & Corsets",
+        "items": ["belt1.png"]
+      },
+      {
+        "id": "bags_purses",
+        "displayName": "Bags & Purses",
+        "items": ["bag1.png"]
+      },
+      {
+        "id": "tights",
+        "displayName": "Tights",
+        "items": ["tights1.png"]
+      },
+      {
+        "id": "socks_stockings",
+        "displayName": "Socks & Stockings",
+        "items": ["socks1.png"]
+      }
+    ]
+  }
+}
