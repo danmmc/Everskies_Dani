@@ -45,7 +45,7 @@
       {
         "id": "shoes",
         "displayName": "Shoes",
-        "items": ["shoes1.png"]
+        "items": ["shoes1.png", "testimage.jpg"]
       }
     ]
   },
