@@ -1,29 +1,31 @@
-# Ignore all files by default, but scan all directories.
+# ========================================
+# Ignore everything by default
+# ========================================
 *
 !*/
 
-# Do not ignore git files in the root of the repo.
+# ========================================
+# Track Git-related files in root
+# ========================================
 !/.git*
+!/.gitignore
 
-# Do not ignore current project's `.uproject`.
-!/*.uproject
+# ========================================
+# Node / scripts / assets we want to track
+# ========================================
+# GitHub Actions workflows
+!.github/
+!.github/workflows/*
 
-# Do not ignore source, config and plugins dirs.
-!/Source/**
-!/Config/**
-!/Plugins/**
+# Scripts folder
+!scripts/**
 
-# Only allow .uasset and .umap files from /Content dir.
-# They're tracked by git-lfs, don't forget to track other
-# files if adding them here.
-!/Content/**/*.uasset
-!/Content/**/*.umap
+# Assets folder
+!assets/wardrobe_F/**
 
-# Allow any files from /RawContent dir.
-# Any file in /RawContent dir will be managed by git lfs.
-!/RawContent/**/*
-
-# OS/platform generated files.
+# ========================================
+# OS / editor files to ignore
+# ========================================
 
 # Windows
 ehthumbs.db
@@ -40,7 +42,7 @@ Thumbs.db
 *~
 .directory
 
-# vim
+# Vim temporary files
 [._]*.s[a-w][a-z]
 [._]s[a-w][a-z]
 *.un~
@@ -48,4 +50,4 @@ Session.vim
 .netrwhist
 
 # Visual Studio
-.vs
+.vs/
