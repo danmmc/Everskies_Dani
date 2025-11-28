@@ -3,7 +3,7 @@ name: Update Wardrobe JSON
 on:
   push:
     paths:
-      - 'assets/wardrobe_F/**'   # triggers when any file in wardrobe_F changes
+      - 'wardrobe.json/**'   # triggers when any file in wardrobe.json changes
       - 'scripts/generate-wardrobe.js'
 
 jobs:
