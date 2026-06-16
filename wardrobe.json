@@ -6,7 +6,19 @@
         "id": "coats_hoodies_jackets",
         "displayName": "Coats Hoodies Jackets",
         "items": [
-          "assets/wardrobe_F/base_layers_F/coats_hoodies_jackets/jacket1.png"
+          "assets/wardrobe_F/base_layers_F/coats_hoodies_jackets/black_bomber_jacket.png",
+          "assets/wardrobe_F/base_layers_F/coats_hoodies_jackets/droptop_pink_windbreaker.png",
+          "assets/wardrobe_F/base_layers_F/coats_hoodies_jackets/gray_flannel_with_hood.png",
+          "assets/wardrobe_F/base_layers_F/coats_hoodies_jackets/green_flannel.png",
+          "assets/wardrobe_F/base_layers_F/coats_hoodies_jackets/lamb_of_god_hoodie.png",
+          "assets/wardrobe_F/base_layers_F/coats_hoodies_jackets/lorna_shore_hoodie.png",
+          "assets/wardrobe_F/base_layers_F/coats_hoodies_jackets/lurkingclass_black_windbreaker.png",
+          "assets/wardrobe_F/base_layers_F/coats_hoodies_jackets/no_more_dead_friends_hoodie.png",
+          "assets/wardrobe_F/base_layers_F/coats_hoodies_jackets/plain_black_hoodie.png",
+          "assets/wardrobe_F/base_layers_F/coats_hoodies_jackets/plain_gray_hoodie.png",
+          "assets/wardrobe_F/base_layers_F/coats_hoodies_jackets/red_and_black_flannel.png",
+          "assets/wardrobe_F/base_layers_F/coats_hoodies_jackets/salt_life_patchwork_hoodie.png",
+          "assets/wardrobe_F/base_layers_F/coats_hoodies_jackets/world_of_horror_bleach_hoodie.png"
         ]
       },
       {
@@ -20,14 +32,27 @@
         "id": "jeans_long_pants",
         "displayName": "Jeans Long Pants",
         "items": [
-          "assets/wardrobe_F/base_layers_F/jeans_long_pants/jeans1.png"
+          "assets/wardrobe_F/base_layers_F/jeans_long_pants/black_ripped_cargo_pants.png"
         ]
       },
       {
         "id": "long_sleeved_shirts_sweaters",
         "displayName": "Long Sleeved Shirts Sweaters",
         "items": [
-          "assets/wardrobe_F/base_layers_F/long_sleeved_shirts_sweaters/sweater1.png"
+          "assets/wardrobe_F/base_layers_F/long_sleeved_shirts_sweaters/black_collared_holey_blouse.png",
+          "assets/wardrobe_F/base_layers_F/long_sleeved_shirts_sweaters/black_collared_holey_blouse_open.png",
+          "assets/wardrobe_F/base_layers_F/long_sleeved_shirts_sweaters/black_distressed_holey_bolero_top.png",
+          "assets/wardrobe_F/base_layers_F/long_sleeved_shirts_sweaters/black_mock_neck_long_sleeve_shirt.png",
+          "assets/wardrobe_F/base_layers_F/long_sleeved_shirts_sweaters/dark_blue_long_sleeve_shirt.png",
+          "assets/wardrobe_F/base_layers_F/long_sleeved_shirts_sweaters/dark_gray_long_sleeve_shirt.png",
+          "assets/wardrobe_F/base_layers_F/long_sleeved_shirts_sweaters/dark_gray_striped_long_sleeve_shirt.png",
+          "assets/wardrobe_F/base_layers_F/long_sleeved_shirts_sweaters/dark_red_long_sleeve_shirt.png",
+          "assets/wardrobe_F/base_layers_F/long_sleeved_shirts_sweaters/fishnet_distressed_shirt.png",
+          "assets/wardrobe_F/base_layers_F/long_sleeved_shirts_sweaters/green_and_red_striped_long_sleeve_shirt.png",
+          "assets/wardrobe_F/base_layers_F/long_sleeved_shirts_sweaters/green_long_sleeve_shirt.png",
+          "assets/wardrobe_F/base_layers_F/long_sleeved_shirts_sweaters/off_gray_long_sleeve_shirt.png",
+          "assets/wardrobe_F/base_layers_F/long_sleeved_shirts_sweaters/white_victorian_long_sleeve_flowy_blouse.png",
+          "assets/wardrobe_F/base_layers_F/long_sleeved_shirts_sweaters/white_victorian_long_sleeve_holey_blouse.png"
         ]
       },
       {
@@ -41,30 +66,59 @@
         "id": "shorts",
         "displayName": "Shorts",
         "items": [
-          "assets/wardrobe_F/base_layers_F/shorts/shorts1.png"
+          "assets/wardrobe_F/base_layers_F/shorts/black_and_white_striped_athletic_shorts.png",
+          "assets/wardrobe_F/base_layers_F/shorts/black_ruffle_bloomer_shorts.png",
+          "assets/wardrobe_F/base_layers_F/shorts/black_spandex_biker_shorts.png",
+          "assets/wardrobe_F/base_layers_F/shorts/maroon_spandex_biker_shorts.png",
+          "assets/wardrobe_F/base_layers_F/shorts/plain_black_spandex_shorts.png",
+          "assets/wardrobe_F/base_layers_F/shorts/skull_and_flowers_athletic_shorts.png"
         ]
       },
       {
         "id": "short_sleeved_shirts_bras",
         "displayName": "Short Sleeved Shirts Bras",
         "items": [
-          "assets/wardrobe_F/base_layers_F/short_sleeved_shirts_bras/testshirt.PNG",
-          "assets/wardrobe_F/base_layers_F/short_sleeved_shirts_bras/testshirt2.png",
-          "assets/wardrobe_F/base_layers_F/short_sleeved_shirts_bras/testshirt3.png"
+          "assets/wardrobe_F/base_layers_F/short_sleeved_shirts_bras/black_eyelash_lace_bra_top.png",
+          "assets/wardrobe_F/base_layers_F/short_sleeved_shirts_bras/black_lace_lingerie_tank_top.png",
+          "assets/wardrobe_F/base_layers_F/short_sleeved_shirts_bras/black_mesh_babydoll.png",
+          "assets/wardrobe_F/base_layers_F/short_sleeved_shirts_bras/black_mock_neck_lace_halter_top.png",
+          "assets/wardrobe_F/base_layers_F/short_sleeved_shirts_bras/gray_striped_buttoned_crop_top.png",
+          "assets/wardrobe_F/base_layers_F/short_sleeved_shirts_bras/gray_woven_stretchy_tank_top.png",
+          "assets/wardrobe_F/base_layers_F/short_sleeved_shirts_bras/halloweentown_graphic_tank_top.png",
+          "assets/wardrobe_F/base_layers_F/short_sleeved_shirts_bras/hard_rock_cafe_fitted_graphic_tee.png",
+          "assets/wardrobe_F/base_layers_F/short_sleeved_shirts_bras/hustler_club_cropped_tank_top.png",
+          "assets/wardrobe_F/base_layers_F/short_sleeved_shirts_bras/memento_mori_graphic_halter_top.png",
+          "assets/wardrobe_F/base_layers_F/short_sleeved_shirts_bras/memento_mori_graphic_tee.png",
+          "assets/wardrobe_F/base_layers_F/short_sleeved_shirts_bras/plain_black_bra.png",
+          "assets/wardrobe_F/base_layers_F/short_sleeved_shirts_bras/plain_black_cropped_t_shirt.png",
+          "assets/wardrobe_F/base_layers_F/short_sleeved_shirts_bras/plain_black_t_shirt.png",
+          "assets/wardrobe_F/base_layers_F/short_sleeved_shirts_bras/plain_black_V_neck_tank_top.png",
+          "assets/wardrobe_F/base_layers_F/short_sleeved_shirts_bras/plain_white_V_neck_tank_top.png",
+          "assets/wardrobe_F/base_layers_F/short_sleeved_shirts_bras/skellige_super_cropped_graphic_tee.png",
+          "assets/wardrobe_F/base_layers_F/short_sleeved_shirts_bras/the_1975_concert_graphic_tee.png",
+          "assets/wardrobe_F/base_layers_F/short_sleeved_shirts_bras/the_1975_hollow_arm_surf_tank.png",
+          "assets/wardrobe_F/base_layers_F/short_sleeved_shirts_bras/whitechapel_blue_green_graphic_tee.png"
         ]
       },
       {
         "id": "skirts",
         "displayName": "Skirts",
         "items": [
-          "assets/wardrobe_F/base_layers_F/skirts/skirt1.png"
+          "assets/wardrobe_F/base_layers_F/skirts/black_lace_asymmetrical_midi_skirt.png",
+          "assets/wardrobe_F/base_layers_F/skirts/black_velvet_maxi_skirt.png",
+          "assets/wardrobe_F/base_layers_F/skirts/dark_green_floral_maxi_skirt.png",
+          "assets/wardrobe_F/base_layers_F/skirts/gingham_black_white_pencil_mini_skirt.png",
+          "assets/wardrobe_F/base_layers_F/skirts/gray_black_plaid_midi_skirt.png",
+          "assets/wardrobe_F/base_layers_F/skirts/halloweentown_tank_top_as_skirt.png",
+          "assets/wardrobe_F/base_layers_F/skirts/plain_black_flowy_midi_skirt.png",
+          "assets/wardrobe_F/base_layers_F/skirts/plain_black_pencil_mini_skirt.png"
         ]
       },
       {
         "id": "vests_cardigans_robes",
         "displayName": "Vests Cardigans Robes",
         "items": [
-          "assets/wardrobe_F/base_layers_F/vests_cardigans_robes/vest1.png"
+          "assets/wardrobe_F/base_layers_F/vests_cardigans_robes/plain_black_suit_vest.png"
         ]
       }
     ]
@@ -73,72 +127,69 @@
     "displayName": "Accessories",
     "subfolders": [
       {
-        "id": "bags_purses",
-        "displayName": "Bags Purses",
-        "items": [
-          "assets/wardrobe_F/accessories_F/bags_purses/bag1.png"
-        ]
-      },
-      {
         "id": "belts_chains_corsets",
         "displayName": "Belts Chains Corsets",
         "items": [
-          "assets/wardrobe_F/accessories_F/belts_chains_corsets/belt1.png"
+          "assets/wardrobe_F/accessories_F/belts_chains_corsets/black_chest_harness_1.png",
+          "assets/wardrobe_F/accessories_F/belts_chains_corsets/black_chest_harness_2.png",
+          "assets/wardrobe_F/accessories_F/belts_chains_corsets/black_corset_belt_1.png",
+          "assets/wardrobe_F/accessories_F/belts_chains_corsets/riveted_belt_slanted_left.png",
+          "assets/wardrobe_F/accessories_F/belts_chains_corsets/riveted_belt_slanted_right.png",
+          "assets/wardrobe_F/accessories_F/belts_chains_corsets/riveted_belt_waist.png"
+        ]
+      },
+      {
+        "id": "bracelets",
+        "displayName": "Bracelets",
+        "items": [
+          "assets/wardrobe_F/accessories_F/bracelets/black_cuff_left.png",
+          "assets/wardrobe_F/accessories_F/bracelets/black_cuff_right.png"
+        ]
+      },
+      {
+        "id": "earrings",
+        "displayName": "Earrings",
+        "items": [
+          "assets/wardrobe_F/accessories_F/earrings/earrings1.png"
         ]
       },
       {
         "id": "gloves_arm_sleeves",
         "displayName": "Gloves Arm Sleeves",
         "items": [
-          "assets/wardrobe_F/accessories_F/gloves_arm_sleeves/gloves1.png"
+          "assets/wardrobe_F/accessories_F/gloves_arm_sleeves/black_fingerless_gloves_short.png",
+          "assets/wardrobe_F/accessories_F/gloves_arm_sleeves/black_fingerless_high_gloves.png",
+          "assets/wardrobe_F/accessories_F/gloves_arm_sleeves/black_fingerless_slouchy_gloves.png",
+          "assets/wardrobe_F/accessories_F/gloves_arm_sleeves/black_fishnet_fingerless_gloves_short.png",
+          "assets/wardrobe_F/accessories_F/gloves_arm_sleeves/black_lace_gloves_short.png",
+          "assets/wardrobe_F/accessories_F/gloves_arm_sleeves/black_sheer_extra_high_gloves.png",
+          "assets/wardrobe_F/accessories_F/gloves_arm_sleeves/black_shiny_satin_gloves_short.png",
+          "assets/wardrobe_F/accessories_F/gloves_arm_sleeves/BnW_striped_fingerless_slouchy_gloves.png",
+          "assets/wardrobe_F/accessories_F/gloves_arm_sleeves/plain_black_gloves_short.png",
+          "assets/wardrobe_F/accessories_F/gloves_arm_sleeves/white_lace_short_gloves.png"
         ]
       },
       {
         "id": "hats_hair_accessories",
         "displayName": "Hats Hair Accessories",
         "items": [
-          "assets/wardrobe_F/accessories_F/hats_hair_accessories/hat1.png"
+          "assets/wardrobe_F/accessories_F/hats_hair_accessories/gray_distressed_grunge_spiked_beanie.png"
         ]
       },
       {
-        "id": "jewelry_F",
-        "displayName": "Jewelry F",
-        "subfolders": [
-          {
-            "id": "bracelets",
-            "displayName": "Bracelets",
-            "items": [
-              "assets/wardrobe_F/accessories_F/jewelry_F/bracelets/bracelet1.png"
-            ]
-          },
-          {
-            "id": "earrings",
-            "displayName": "Earrings",
-            "items": [
-              "assets/wardrobe_F/accessories_F/jewelry_F/earrings/earrings1.png"
-            ]
-          },
-          {
-            "id": "leg_garters",
-            "displayName": "Leg Garters",
-            "items": [
-              "assets/wardrobe_F/accessories_F/jewelry_F/leg_garters/garter1.png"
-            ]
-          },
-          {
-            "id": "necklaces",
-            "displayName": "Necklaces",
-            "items": [
-              "assets/wardrobe_F/accessories_F/jewelry_F/necklaces/necklace1.png"
-            ]
-          },
-          {
-            "id": "rings",
-            "displayName": "Rings",
-            "items": [
-              "assets/wardrobe_F/accessories_F/jewelry_F/rings/ring1.png"
-            ]
-          }
+        "id": "leg_garters",
+        "displayName": "Leg Garters",
+        "items": [
+          "assets/wardrobe_F/accessories_F/leg_garters/garter1.png"
+        ]
+      },
+      {
+        "id": "necklaces",
+        "displayName": "Necklaces",
+        "items": [
+          "assets/wardrobe_F/accessories_F/necklaces/black_and_silver_rosary.png",
+          "assets/wardrobe_F/accessories_F/necklaces/black_necklace_1.png",
+          "assets/wardrobe_F/accessories_F/necklaces/silver_necklace_1.png"
         ]
       },
       {
@@ -152,7 +203,8 @@
         "id": "socks_stockings",
         "displayName": "Socks Stockings",
         "items": [
-          "assets/wardrobe_F/accessories_F/socks_stockings/socks1.png"
+          "assets/wardrobe_F/accessories_F/socks_stockings/black_calf_socks.png",
+          "assets/wardrobe_F/accessories_F/socks_stockings/white_calf_socks.png"
         ]
       },
       {
@@ -160,6 +212,16 @@
         "displayName": "Tights",
         "items": [
           "assets/wardrobe_F/accessories_F/tights/tights1.png"
+        ]
+      },
+      {
+        "id": "underwear",
+        "displayName": "Underwear",
+        "items": [
+          "assets/wardrobe_F/accessories_F/underwear/black_briefs_white_waistband.png",
+          "assets/wardrobe_F/accessories_F/underwear/dusty_pink_panties.png",
+          "assets/wardrobe_F/accessories_F/underwear/plain_black_panties.png",
+          "assets/wardrobe_F/accessories_F/underwear/plain_white_panties.png"
         ]
       }
     ]
